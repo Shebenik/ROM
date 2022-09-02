@@ -6,7 +6,7 @@ Za izvedbo tega projekta bom uporabljal program Mathematica.
 
 ### Načrt projekta
 
-1. Pridobivanje podatkov (sem se odločil za razne spletne strani).
+1. Pridobivanje podatkov.
 2. Analiza vrednosti USD, kupne moči USD, itd.
 3. Primerjava vrednosti USD in EUR.
 4. Izdelava grafov.
