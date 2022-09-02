@@ -1,15 +1,19 @@
+# VREDNOST AMERIŠKEGA DOLARJA SKOZI ČAS
+
 Ta repozitorij vsebuje projekt, ki ga bom pripravil za predmet Računalniška orodja v matematiki v študijskem letu 2021/2022.
 
-Pri projektu bom uporabil računalniški program Mathematica.
+Za izvedbo tega projekta bom uporabljal program Mathematica.
 
 ### Načrt projekta
 
-1. neki
-2. neki
-3. itd.
+1. Pridobivanje podatkov (sem se odločil za razne spletne strani).
+2. Analiza vrednosti USD, kupne moči USD, itd.
+3. Primerjava vrednosti USD in EUR.
+4. Izdelava grafov.
+5. Izdelava videoposnetka kratke predstavitve.
 
-### Povezava do videoposnetka
+### Povezava do aplikacije v Wolfram oblaku
 
-https://nekineki.neki
+*paste here*
 
 Pripravil: *Tin Šebenik*
