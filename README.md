@@ -14,6 +14,6 @@ Za izvedbo tega projekta bom uporabljal program Mathematica.
 
 ### Povezava do aplikacije v Wolfram oblaku
 
-*paste here*
+https://www.wolframcloud.com/obj/ts9254/url-path
 
 Pripravil: *Tin Šebenik*
